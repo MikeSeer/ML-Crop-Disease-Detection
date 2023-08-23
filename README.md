@@ -6,6 +6,13 @@
 ## Description
 
 This project deploys the YOLO v5 model for accurate and real-time detection of Cocoa Swollen Shoot Disease Virus (CSSVD) in cocoa crops. The Android app offers user-friendly disease identification and management support.
+## Download Large Files
+
+You can download the large files from the following Google Drive link:
+
+[Download Large Files](link_goes_here)
+
+https://drive.google.com/file/d/1QSvD2gcLA8S187tFVCHreyKTsJ6Pu96q/view?usp=sharing
 
 ## Features
 
@@ -34,10 +41,8 @@ This project deploys the YOLO v5 model for accurate and real-time detection of C
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [KNUST License](LICENSE).
 
-## Acknowledgments
 
-- YOLO v5 model: [Link to YOLO v5 repository](https://github.com/ultralytics/yolov5)
-- CSSVD Dataset: [Link to Dataset Source](https://example.com/dataset)
+
 
