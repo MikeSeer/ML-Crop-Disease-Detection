@@ -30,7 +30,7 @@ This project deploys the YOLO v5 model for accurate and real-time detection of C
 
 ## Contributors
 
-- [Your Name](https://github.com/MikeSeer)
+- [Michael Seer](https://github.com/MikeSeer)
 
 ## License
 
