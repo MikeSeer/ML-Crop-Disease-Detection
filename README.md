@@ -38,6 +38,7 @@ https://drive.google.com/file/d/1QSvD2gcLA8S187tFVCHreyKTsJ6Pu96q/view?usp=shari
 ## Contributors
 
 - [Michael Seer](https://github.com/MikeSeer)
+- [RootedLabs]
 
 ## License
 
